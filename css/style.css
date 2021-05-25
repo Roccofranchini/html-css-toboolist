@@ -8,5 +8,23 @@
 
 .container {
 width: 80%;
-margin: auto;
+margin: 0 auto;
+}
+
+/* header */
+
+.header {
+    height: 100px;
+    font-family: 'Roboto', sans-serif;
+    line-height: 100px;
+    font-size: 25px;
+}
+
+#title {
+    display: inline-block;
+}
+
+#logo{
+    vertical-align: middle;
+    height: 50px;
 }
