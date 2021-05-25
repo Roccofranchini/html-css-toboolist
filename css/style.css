@@ -127,3 +127,19 @@ body {
     padding: 5px 10px;
     border-radius: 5px;
 }
+
+.check {
+    color: green;
+    font-size: 20px;
+    font-weight: 900;
+    border: 2px solid green;
+    border-radius: 100%;
+}
+
+.cross {
+    color: rgb(231, 8, 8);
+    font-size: 20px;
+    font-weight: 900;
+    border: 2px solid rgb(231, 8, 8);
+    border-radius: 100%;
+}
