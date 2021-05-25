@@ -104,10 +104,26 @@ body {
     border-radius: 5px;
 }
 
-    .etichetta-mobile {
-        background-color: rgb(212, 127, 30);
-        color: white;
-        font-size: 10px;
-        padding: 5px 10px;
-        border-radius: 5px;
+.etichetta-mobile {
+    background-color: rgb(212, 127, 30);
+    color: white;
+    font-size: 10px;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.etichetta-website {
+    background-color: rgb(233, 29, 199);
+    color: white;
+    font-size: 10px;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.etichetta-sales {
+    background-color: #519763;
+    color: white;
+    font-size: 10px;
+    padding: 5px 10px;
+    border-radius: 5px;
 }
