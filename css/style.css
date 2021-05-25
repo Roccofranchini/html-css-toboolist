@@ -69,7 +69,7 @@ body {
 
 /* Task */
 
-.task {
+.todo {
     padding: 40px 80px;
     font-size: 19px;
 }
@@ -78,4 +78,36 @@ body {
     list-style-type: none;
     padding: 0;
     margin-0:
+}
+
+.etichetta-editorial {
+    background-color: lightskyblue;
+    color: white;
+    font-size: 10px;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.etichetta-goals {
+    background-color: rgb(198, 135, 250);
+    color: white;
+    font-size: 10px;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.etichetta-recruiting {
+    background-color: rgb(42, 129, 71);
+    color: white;
+    font-size: 10px;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+    .etichetta-mobile {
+        background-color: rgb(212, 127, 30);
+        color: white;
+        font-size: 10px;
+        padding: 5px 10px;
+        border-radius: 5px;
 }
