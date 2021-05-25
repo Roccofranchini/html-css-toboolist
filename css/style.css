@@ -80,52 +80,35 @@ body {
     margin-0:
 }
 
-.etichetta-editorial {
+.etichetta {
+    color: white;
+    font-size: 10px;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.editorial {
     background-color: lightskyblue;
-    color: white;
-    font-size: 10px;
-    padding: 5px 10px;
-    border-radius: 5px;
 }
 
-.etichetta-goals {
+.goals {
     background-color: rgb(198, 135, 250);
-    color: white;
-    font-size: 10px;
-    padding: 5px 10px;
-    border-radius: 5px;
 }
 
-.etichetta-recruiting {
+.recruiting {
     background-color: rgb(42, 129, 71);
-    color: white;
-    font-size: 10px;
-    padding: 5px 10px;
-    border-radius: 5px;
 }
 
-.etichetta-mobile {
+.mobile {
     background-color: rgb(212, 127, 30);
-    color: white;
-    font-size: 10px;
-    padding: 5px 10px;
-    border-radius: 5px;
 }
 
-.etichetta-website {
+.website {
     background-color: rgb(233, 29, 199);
-    color: white;
-    font-size: 10px;
-    padding: 5px 10px;
-    border-radius: 5px;
 }
 
-.etichetta-sales {
+.sales {
     background-color: #519763;
-    color: white;
-    font-size: 10px;
-    padding: 5px 10px;
-    border-radius: 5px;
 }
 
 .check {
