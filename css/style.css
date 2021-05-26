@@ -77,7 +77,11 @@ body {
 .lista {
     list-style-type: none;
     padding: 0;
-    margin-0:
+    margin 0:
+}
+
+li {
+    margin: 10px auto;
 }
 
 .etichetta {
@@ -111,18 +115,20 @@ body {
     background-color: #519763;
 }
 
-.check {
-    color: green;
+.circle {
     font-size: 20px;
     font-weight: 900;
-    border: 2px solid green;
-    border-radius: 100%;
+    border: 2px solid;
+    border-radius: 50%;
+    padding: 4px 8px;
+}
+
+.check {
+    color: green;
+    border-color: green;
 }
 
 .cross {
     color: rgb(231, 8, 8);
-    font-size: 20px;
-    font-weight: 900;
-    border: 2px solid rgb(231, 8, 8);
-    border-radius: 100%;
+    border-color: rgb(231, 8, 8);
 }
